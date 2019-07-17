@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Elise Mahutte	elise@atvise.nl	@ecmahutte
 
 # THANKS
 
